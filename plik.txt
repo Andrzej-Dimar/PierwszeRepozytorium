@@ -4,4 +4,6 @@ test czy się zapiszą,
 
 teraz robie trzeccią zmianę i zobaczymy jak dobrze mi pójdzie...
 
-kolejna zmiana
+kolejna zmiana,
+
+teraz już zrobię szóstą zmianę
